@@ -1,4 +1,4 @@
-module SpecialFunctions
+module SpecialFunctionsMOD
 
 using IrrationalConstants:
     twoπ,
